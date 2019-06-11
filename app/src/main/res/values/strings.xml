@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="tab_text_1">Business News</string>
+    <string name="tab_text_2">Tech News</string>
+    <string name="tab_3">Bitcoin News</string>
+    <string name="no_net">No Internet avaliable</string>
+    <string name="alert_msg">Please connect to internet</string>
+    <string name="author">Author</string>
+    <string name="description">Description:</string>
+    <string name="content">Content</string>
+</resources>
